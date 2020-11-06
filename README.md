@@ -6,5 +6,5 @@ A general python framework for ATCC: Accurate Tracking by Criss-Cross Location A
 
 * The results of the ablation experiments are here:[google drive](https://drive.google.com/file/d/17cFe9q-YTsS4BUbEWNoMVnWNQxo8lkyM/view?usp=sharing)
 
-![The results of ablation](figs/001.png)
+![The results of ablation](figs/001.PNG)
 ### The code is coming soon!
