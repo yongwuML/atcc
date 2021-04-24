@@ -8,4 +8,5 @@ A general python framework for ATCC: Accurate Tracking by Criss-Cross Location A
 
 ![The results of ablation](figs/001.PNG)
 ### Please contact me if you want to get the code.
-For any questions, issues or recommendations, please contact Yong at Yong_Wu@shu.edu.cn or yong.wu1.shu@gmail.com
+For any questions, issues or recommendations, please contact Yong at yong_wu@shu.edu.cn or yongwu.ywu@gmail.com
+
